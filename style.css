@@ -1,0 +1,39 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+#title{
+    font-size:30px;
+display: inline;
+}
+.heading button{
+    float: right;
+    border-color: white;
+}
+#marioIMG{
+    width:100%;
+}
+#play{
+    width:200px;
+    font-size: 23px;
+}
+#source{
+    margin: 0px;
+}
+.modal-dialog{
+    width:90%;
+
+}
+.instruction_img{
+    display: inline-block;
+    width:45%;
+}
+#source{
+    width:100%;
+}
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding:30px ;
+}
